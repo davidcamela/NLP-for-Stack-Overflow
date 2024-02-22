@@ -4,7 +4,7 @@
 The following project was part of a Kaggle competition between Master's Students of the University of Geneva. 
 Link for the competition's description: www.kaggle.com/competitions/ml-unige-fall-2023-stackoverflow-classification/overview/description
 
-The datasets used are available on the "CSV_Files.zip"
+The datasets used are available on the "CSV_Files.zip" inside the folder "Src".
 
 ## Description of the NLP Project
 
