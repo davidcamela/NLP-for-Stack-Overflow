@@ -36,4 +36,11 @@ The document is divided as following
   * Implementation of WordCloud to see the distribution of keywords for predefined tags
   * TF-IDF and Count Vectorizer Scores
 * Prediction on final data
-  * Saving the predictions in a CSV file for kaggle competition.  
+  * Saving the predictions in a CSV file for kaggle competition.
+ 
+ 
+Overall, the model shows promising performance. However, there’s variability in performance across different classes,
+indicating potential areas for improvement, especially for classes with lower precision, recall, and
+F1-scores. Analyzing these metrics helps identify specific areas where the model struggles, providing
+insights for potential model enhancements or targeted data improvements to boost performance,
+especially for classes with lower scores.
