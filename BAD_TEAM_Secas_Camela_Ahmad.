@@ -1,8 +1,0 @@
-This file is divide in 5 main sections. 
-* Data Exploration and preliminatory analysis 
-* Data preprocessing
-* Classification Models
-** SVM
-** Random Forest
-* Tags Classification
-* Prediction
