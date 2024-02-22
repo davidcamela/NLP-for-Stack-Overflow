@@ -15,3 +15,25 @@ the diverse tags (categories) assigned to given posts. These posts, contributed 
 users, predominantly cover programming languages and comprise a blend of natural language and
 code snippets in various programming languages.
 The goal of the ML model is to be as accurate as possible in predicting the labels.
+
+The document is divided as following
+* Data Exploration and preliminary Analysis
+  * Importation of required libraries.
+  * Inspection of the dataset
+  * Distribution of words
+* Data preprocessing
+  * Defining preprocess function
+  * Split between training and test datasets
+  * Tokenization
+* Classification models
+  * Random Forest Clasifier (RF)
+  * Implementation of cross-validation for RF
+  * Confusion Matrix for RF
+  * Support vector classifier (SVC)
+  * Cross validation with different kernels
+  * Confusion Matrix for SVC models
+* Tags Classification
+  * Implementation of WordCloud to see the distribution of keywords for predefined tags
+  * TF-IDF and Count Vectorizer Scores
+* Prediction on final data
+  * Saving the predictions in a CSV file for kaggle competition.  
