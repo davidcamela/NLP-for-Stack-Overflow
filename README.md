@@ -1,4 +1,13 @@
 # NLP-for-Stack-Overflow
+
+## Summary 
+The following project was part of a Kaggle competition between Master's Students of the University of Geneva. 
+Link for the competition's description: www.kaggle.com/competitions/ml-unige-fall-2023-stackoverflow-classification/overview/description
+
+The datasets used are available on the "CSV_Files.zip"
+
+## Description of the NLP Project
+
 Leveraging machine learning techniques to predict missing tags in Stack Overflow's posts.
 This project focuses on Natural Language Processing (NLP), a specialized domain within Machine
 Learning dedicated to comprehending, forecasting, and processing words, sentences, and the
@@ -38,7 +47,7 @@ The document is divided as following
 * Prediction on final data
   * Saving the predictions in a CSV file for kaggle competition.
  
- 
+### Final conclusions
 Overall, the model shows promising performance. However, there’s variability in performance across different classes,
 indicating potential areas for improvement, especially for classes with lower precision, recall, and
 F1-scores. Analyzing these metrics helps identify specific areas where the model struggles, providing
